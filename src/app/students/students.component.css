@@ -1,0 +1,35 @@
+
+
+table {
+  background-color:rgb(235, 195, 14);
+  color: rgb(238, 230, 195);
+  font: italic 1.4em georgia, sans-serif;
+} 
+
+#titlePage {
+font: italic bold 1.4em georgia, sans-serif;
+text-align: center;
+background-color: rgb(179, 151, 206);
+color: rgb(235, 195, 14)
+}
+
+h2 {
+background-color: rgb(238, 230, 195);
+color: rgb(179, 151, 206);
+font: bold 1.4em georgia, sans-serif;
+}
+
+table,
+#titlePage,
+h2 {
+width: 1200px;
+margin: 10px;
+display: block;
+float: left;
+padding: 20px;
+letter-spacing: 2px; 
+}
+
+
+
+	
